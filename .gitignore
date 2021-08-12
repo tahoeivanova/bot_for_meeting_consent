@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+bot_env/
+lists_copy.py
+main_copy.py
+credentials.py
+invite.py
